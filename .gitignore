@@ -14,7 +14,6 @@ wp-admin/
 wp-includes/
 wp-*.php
 !wp-config.php
-index.php
 webpage.class.php
 database.functions.php
 myPDO.class.php
